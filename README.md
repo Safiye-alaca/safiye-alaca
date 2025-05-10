@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+Safiye,+a+Lifelong+Learner+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I'm+a+Computer+Engineering+Student;I'm+deeply+passionate+about+learning.;My+name+is+Safiye+💻" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <em>I am someone who is passionately dedicated to learning. I love improving myself, discovering new technologies, and building projects that make a difference.</em>
