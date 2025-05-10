@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+Safiye,+a+Lifelong+Learner+🌱" alt="Typing SVG" />
 </h1>
 
 <p align="center">
