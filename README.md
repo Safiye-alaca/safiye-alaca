@@ -8,6 +8,8 @@
 
 ---
 
+<img align="right" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="220"/>
+
 ### 👩‍💻 About me
 
 - 🔤 **My name is Safiye**
@@ -17,8 +19,6 @@
 - 🧠 Currently learning: `FastAPI`, `Docker`, and `PyQt5`
 - 🔧 Currently working on: a **ground control station software** for UAVs (Unmanned Aerial Vehicles)
 - 🎨 I also enjoy **designing**, **volunteering**, and **organizing events**
-
-<img align="right" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="220"/>
 
 ---
 
