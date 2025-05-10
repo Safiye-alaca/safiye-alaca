@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=I'm+a+Computer+Engineering+Student;I'm+deeply+passionate+about+learning.;My+name+is+Safiye+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+account;I'm+a+Computer+Engineering+student;I'm+deeply+passionate+about+learning;My+name+is+Safiye+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
+
 
 
 <p align="center">
@@ -11,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="220"/>
 
-### 👩‍💻 About me
+<h2 ### 👩‍💻 About me </h2>
 
 - 🔤 **My name is Safiye**
 - 🎓 I'm a Computer Engineering student at **Kütahya Dumlupınar University**
