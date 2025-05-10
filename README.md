@@ -17,10 +17,7 @@
 - 🔤 **My name is Safiye**
 - 🎓 I'm a Computer Engineering student at **Kütahya Dumlupınar University**
 - 🌍 Based in **Bursa, Turkey**
-- ☁️ Passionate about: **Artificial Intelligence, Cloud Computing, and Space Technologies**
-- 🧠 Currently learning: `FastAPI`, `Docker`, and `PyQt5`
-- 🔧 Currently working on: a **ground control station software** for UAVs (Unmanned Aerial Vehicles)
-- 🎨 I also enjoy **designing**, **volunteering**, and **organizing events**
+- ☁️ Passionate about: **Artificial Intelligence, Cloud Computing, and Data Science**
 
 ---
 
