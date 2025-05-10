@@ -21,11 +21,6 @@
 
 ---
 
-### 💬 My favorite quote
-
-> _“It’s not a shame to not know, it’s a shame to not be willing to learn.”_
-
----
 
 ### 🛠️ Tech Stack & Tools
 
