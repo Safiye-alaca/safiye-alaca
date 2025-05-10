@@ -12,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="220"/>
 
-<h2 ### 👩‍💻 About me </h2>
+### 👩‍💻 About me 
 
 - 🔤 **My name is Safiye**
 - 🎓 I'm a Computer Engineering student at **Kütahya Dumlupınar University**
