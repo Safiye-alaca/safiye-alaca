@@ -18,6 +18,10 @@
 - 🎓 I'm a Computer Engineering student at **Kütahya Dumlupınar University**
 - 🌍 Based in **Bursa, Turkey**
 - ☁️ Passionate about: **Artificial Intelligence, Cloud Computing, and Data Science**
+- 🧠 I actively contribute to the software development side of a **TÜBİTAK-supported UAV (Unmanned Aerial Vehicle)** team, where I continuously improve my technical skills through hands-on teamwork and real-world projects.
+- 🎨 My main goal is to deepen my expertise in AI, Data Science and cloud systems, and to develop **efficient, scalable solutions** in these fields.  
+- 📚 I aim to grow by collaborating with forward-thinking teams and gaining real industry experience.
+ 
 
 ---
 
