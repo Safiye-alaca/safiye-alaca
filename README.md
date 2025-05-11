@@ -35,8 +35,5 @@
 </p>
 
 
-
-### 🐍 Watch my contribution graph get eaten by a snake 🐍
-
 ![snake gif](https://github.com/safiye-alaca/snk/blob/manual-run-output/docker/github-contribution-grid-snake.gif?raw=true)
 
