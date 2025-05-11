@@ -14,7 +14,6 @@
 
 ### 👩‍💻 About me 
 
-- 🔤 **My name is Safiye**
 - 🎓 I'm a Computer Engineering student at **Kütahya Dumlupınar University**
 - 🌍 Based in **Bursa, Turkey**
 - ☁️ Passionate about: **Artificial Intelligence, Cloud Computing, and Data Science**
@@ -34,3 +33,10 @@
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+
+
+
+### 🐍 Watch my contribution graph get eaten by a snake 🐍
+
+![snake gif](https://github.com/safiye-alaca/safiye-alaca/blob/output/github-contribution-grid-snake.gif)
