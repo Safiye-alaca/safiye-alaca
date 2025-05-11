@@ -36,6 +36,6 @@
 
 
 ![snake gif](https://github.com/safiye-alaca/snk/blob/manual-run-output/docker/github-contribution-grid-snake.gif?raw=true)
-![snake gif](./github-user-contribution.gif)
+![snake gif](https://github.com/safiye-alaca/snk/blob/manual-run-output/docker/github-contribution-grid-snake.gif?raw=true)
 
 
