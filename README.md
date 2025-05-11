@@ -35,6 +35,5 @@
 </p>
 
 
-![snake gif](https://github.com/safiye-alaca/snk/blob/manual-run-output/docker/github-contribution-grid-snake.gif?raw=true)
 
 
